@@ -1,4 +1,4 @@
-<h2 align="center">Hey there👋, I'm Shubham Shinde💻.</h2>
+<h2 align="center">Hey there, I'm Shubham Shinde.</h2>
 <h3 align="center">Android App Developer</h3>
 
 &nbsp;
